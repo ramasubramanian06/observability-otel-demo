@@ -69,6 +69,8 @@ The OpenTelemetry Demo (Astronomy Shop) is a microservice-based distributed syst
 
 - ⭐⭐⭐ Follow the commands-to-execute file above ⭐⭐⭐
 
+---
+
 
 | Interface | Local address |
 | --- | --- |
@@ -79,7 +81,7 @@ The OpenTelemetry Demo (Astronomy Shop) is a microservice-based distributed syst
 | Kubernetes monitoring Prometheus | [http://localhost:9090/](http://localhost:9090/) |
 | Kubernetes monitoring Grafana | [http://localhost:3000/](http://localhost:3000/) |
 
-
+---
 
 
 ## 🔍 Observability Deep Dive
